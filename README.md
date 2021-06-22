@@ -1,6 +1,6 @@
 # Instalação
 ## Todos API
-Baixe a Todos API e execute localmente com o comando `docker-compose up -d` conforme a (doc)[https://github.com/balliegojr/todo-api].
+Baixe a Todos API e execute localmente com o comando `docker-compose up -d` conforme a [doc](https://github.com/balliegojr/todo-api).
 
 ## Todo Client
 Clone o repositório Todo-client para sua máquina. Abra o terminal na raíz do projeto e execute o comando `yarn install`. Após a instalação dos pacotes do node execute o comando `yarn start` para rodar o projeto.
